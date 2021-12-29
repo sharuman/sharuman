@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sharuman
+- 👋 Hi, I’m Bhuwan Sharma
 - 🏠 You can find more about me at bhuwansharma.com
 - 👀 I’m interested in ML
 - 🌱 I’m currently pursuing a Master's Degree in Informatics (major in AI/ML)
